@@ -37,7 +37,7 @@ pip install -e .
 > [!NOTE]
 > Installing system-wide may require `sudo` on some systems and could potentially conflict with other Python packages. Using a virtual environment is recommended to avoid dependency conflicts.
 
-## Quick Start
+## Quick start
 
 ### Basic usage
 
@@ -95,7 +95,7 @@ ytcli-dl -l "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 ytcli-dl --format-code "248+140" "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 ```
 
-## Command-line Options
+## Options
 
 ```
 ytcli-dl [OPTIONS] [URL]
@@ -128,7 +128,7 @@ Install requirements manually if needed:
 pip install yt-dlp click tqdm
 ```
 
-## Version History
+## Version history
 
 ### v1.0.0
 - Initial release
@@ -143,7 +143,7 @@ pip install yt-dlp click tqdm
 
 This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
 
-## Legal Disclaimer
+## Legal disclaimer
 
 Please read the following carefully before using this software:
 
