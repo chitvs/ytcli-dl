@@ -80,7 +80,7 @@ class YouTubeDownloader:
             opts['merge_output_format'] = 'mp4'
             opts['postprocessors'] = [{
                 'key': 'FFmpegVideoConvertor',
-                'preferredformat': 'mp4'
+                'preferedformat': 'mp4'
             }]
 
         return opts
