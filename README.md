@@ -1,6 +1,6 @@
 # ytcli-dl, a minimal command-line YouTube downloader
 
-**ytcli-dl** is a simple yet powerful tool to download YouTube videos and playlists directly from the command line. Using yt-dlp, it supports multiple formats and resolutions, audio-only downloads, and custom output options.
+**ytcli-dl** is a simple yet powerful tool to download YouTube videos and playlists directly from the command line. Using yt-dlp, it supports multiple formats and resolutions, audio-only downloads, and custom output options. Intended for personal use.
 
 ## Features
 
