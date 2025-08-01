@@ -123,22 +123,6 @@ Options:
 - click
 - tqdm
 
-Install requirements manually if needed:
-```bash
-pip install yt-dlp click tqdm
-```
-
-## Version history
-
-### v1.0.0
-- Initial release
-- Specific quality downloads
-- Audio-only mode
-- Playlist support
-- Batch download from URL files
-- Format code support
-- Format listing
-
 ## License
 
 This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
