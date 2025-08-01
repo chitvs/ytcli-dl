@@ -121,7 +121,6 @@ Options:
 - Python
 - yt-dlp
 - click
-- tqdm
 
 ## License
 
