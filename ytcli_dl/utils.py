@@ -1,5 +1,5 @@
 """
-ytcli-dl - A minimal command-line YouTube downloader.
+ytcli-dl -- A minimal command-line YouTube downloader.
 
 MIT License
 
